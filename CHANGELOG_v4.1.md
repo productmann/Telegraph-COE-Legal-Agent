@@ -508,3 +508,6 @@ For Email-Style Format (<£5k + Repeat Vendor Good Experience):
 4. Update .cursorrules to v4.1
 5. Document any issues or refinements needed
 
+
+
+

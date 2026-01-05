@@ -252,3 +252,6 @@ We've modeled v4.1 on real legal output. Please provide feedback on:
 
 The key insight: Real lawyers don't produce formal legal memos for £3k repeat vendor catering contracts. They send quick, practical emails. v4.1 now does the same.
 
+
+
+

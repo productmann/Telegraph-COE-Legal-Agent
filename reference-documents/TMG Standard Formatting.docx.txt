@@ -1,0 +1,103 @@
+﻿The Parties wish to explore the Business Transactions (as defined at page 1) and acknowledge that in the course of discussions information which is confidential to them may be provided or disclosed by one to the other. In consideration of each party being granted access to the information, the parties have agreed to treat the confidential information in accordance with this the terms and conditions set out in this Agreement.
+
+
+1. Confidential Information
+
+
+In this Agreement, without limitation, Confidential Information includes (but is not limited to):
+
+
+1. any information provided by either party (“Owner”) to the other (“Recipient”) concerning the Business Transaction;
+2. any product designs, plans, prices and costs, trade secrets, inventions, techniques, processes, programs, schematics, software, data (including personal data), customer lists, financial information, sales and marketing plans, analytics data, usage reports, audience data, business opportunities, personnel data, technical data or know-how which relates to the business, services or products of the Owner and/or any of its subsidiaries and holding companies and their subsidiaries (as defined by the Companies Act 2006 s.1159);
+3. any other information which the Recipient knows or reasonably ought to know is confidential, proprietary or trade secret information of the Owner and/or any of its subsidiaries and holding companies and their subsidiaries (as defined by the Companies Act 2006 s.1159), 
+
+
+2. Permitted Release and Disclosure
+
+
+Notwithstanding any other provisions in this Agreement, the Recipient shall not be liable for release or disclosure of, and the confidentiality obligations do not apply to, any Confidential Information, which is:
+
+
+1. already published or available to the public other than by a breach of this Agreement;
+2. rightfully received from a third party not in breach of any obligation of confidentiality;
+3. independently developed by personnel or agents of the Recipient without access to the Confidential Information of the Owner;
+4. shown (with each party acting reasonably) to have been known by the Recipient at the time of disclosure; or
+5. approved in writing by the Owner prior to the release or disclosure by the Recipient.
+6. The Recipient may disclose Confidential Information, which is required to be disclosed by law or a court order or governmental or other regulatory authority, providing that:
+7. any disclosure is only to the extent required for the purpose of complying with that order; 
+8. any disclosure is only to the proper recipient; and
+9. unless prevented by law, before making any disclosure, the Recipient has promptly notified the Owner in writing of the requirement and of the information to be disclosed and has allowed the Owner an opportunity to comment on the requirement, and:
+10. to the extent that is reasonable and permissible, redact commercially or otherwise sensitive information, or
+11. if (a) is not appropriate, allow the Owner to seek a protective order or other appropriate relief.
+
+
+3. Use of Confidential Information
+
+
+Except as permitted under clause 2, the Recipient must:
+
+
+1. not use the Confidential Information for any purpose except to evaluate whether it wishes to enter the Business Transaction with the Owner or as necessary to carry out the terms of that Business Transaction;
+2. not disclose Confidential Information to any person other than the Recipient's employees, advisers or other professional consultants:
+   1. who are directly involved in the decision whether to pursue a Business Transaction with the Owner; or 
+   2. for which possession of the Confidential Information is necessary for the fulfilment of the Business Transaction; or
+   3. who have a need to know such Confidential Information,
+Such third parties who must also comply with confidentiality provisions no less onerous than these confidentiality provisions
+3. take reasonable and commercially prudent security measures and use care to preserve and protect the secrecy of, and to avoid disclosure or use of, the Owner's Confidential Information, such measures being no less a standard than it would use in respect of its own information of a similar nature; and
+4. as soon as reasonably practicable advise the Owner in writing of any inadvertent inappropriate disclosure, misappropriation or misuse by any person of the Confidential Information as soon as it comes to the Recipient’s attention.
+
+
+4. Return of Information
+
+
+Upon termination of this Agreement and also within ten business days of the Owner’s written request:
+1. the Recipient shall cease using the Confidential Information;
+2. promptly destroy or return (if required by the Owner) the Confidential Information and all copies and reproductions, extracts and notes thereof except (in the case of destruction) where Confidential Information is backed up to a server from which deletion of specific data is not possible in which event the Recipient agrees that it shall not at any time following the termination or expiry of this Agreement use the files that have been archived on such servers for any purpose whatsoever, except as required by law or a regulatory body.
+
+
+Nothing in this clause shall require the Recipient to return Confidential Information or copies of it that are required to be retained by law or to satisfy the rules or regulations of a regulatory body or stock exchange to which such person is subject.
+
+
+5. Personal Data
+
+
+If the Recipient holds or processes any personal data (as defined in the Data Protection Act 2018) of the other party, it shall do so strictly in compliance with the Data Protection Act 2018 and/or Regulation (EU) 2016/679 (GDPR) and other relevant applicable regulations. The Recipient shall ensure that such personal data shall not be transferred outside of the EU or UK. This includes ensuring that appropriate technical and organisational measures are taken against unauthorised or unlawful processing of the personal data and against accidental loss or destruction of, or damage to the personal data. 
+
+
+6. Ownership, Intellectual Property and Warranty
+
+
+The Recipient acquires no rights of ownership or title to the Owner's Confidential Information by virtue of this Agreement.
+
+
+Notwithstanding anything to the contrary, no licence under any trademark, rights, patent or copyright, or application for same which are now or thereafter may be obtained by a Party is either granted or implied by the disclosure of Confidential Information or under this Agreement. 
+
+
+The Recipient shall not reverse-engineer, decompile, or disassemble, modify or copy (except for making a single back-up copy) software (if any) disclosed under this Agreement and shall not remove, overprint, deface or change any notice of confidentiality, copyright, trademark, logo, legend or other notices of ownership from any originals or copies of Confidential Information it receives from the Owner, unless permitted by law.
+
+
+Nothing in this Agreement limits or restricts the rights of the Owner to assert claims for infringement of intellectual property rights against the Recipient unless the infringement is expressly authorised under this Agreement.
+
+
+The Confidential Information is disclosed “as is” and may not be accurate or complete. The Owner does not make any representation or warranty as to the accuracy, completeness or reasonableness of the Confidential Information. An Owner is not obliged to update any Confidential Information disclosed. The Owner shall not be liable under this Agreement to the other party or any other person who receives Confidential Information if it is relied on.
+
+
+7. Remedies
+
+
+The parties acknowledge that loss, misuse or unauthorised disclosure of the Confidential Information or any part of it will or may be harmful to the Owner’s business interests and that monetary damages alone would not be adequate compensation. Accordingly, the Recipient acknowledges that in addition to any other remedy which may be available in law or equity, the Owner is entitled to seek at its sole cost interim, interlocutory and permanent injunctions, or any of them, to prevent breach of this Agreement and to compel specific performance of it. 
+
+
+Neither party will be liable for loss of profits, loss or inaccuracy of data, or indirect, special, incidental or consequential damages, even if the Recipient has been advised of the possibility of such damages.
+
+
+8. Term
+
+
+This Agreement shall continue from the date of last signature for a duration of three years. 
+
+
+9. General 
+
+
+This Agreement is the entire Agreement, both written and oral, between the parties regarding the provision of the Confidential Information. This Agreement is governed by the laws of England and Wales, to the exclusive jurisdiction of whose courts the parties hereby submit.
